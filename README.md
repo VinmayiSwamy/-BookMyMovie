@@ -47,7 +47,7 @@ cd BookMyMovie
 docker build -t bookmymovie
 docker run -p 8080:8080 -d bookmymovie
 ```
-Note: A prebuilt docker image is available at https://hub.docker.com/r/vinmayiswamy/bookmymovie/
+Note: A prebuilt docker image is available at https://hub.docker.com/r/vinmayiswamy/bookmymovie/ (temporarily down! will update soon)
 
 ## Contributing
 
